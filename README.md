@@ -74,8 +74,6 @@ node server.js
 
 ## Estimated AI Contribution
 
-## Estimated AI Contribution
-
 UI Design Suggestions: 30%
 
 Debugging & Error Resolution: 25%
