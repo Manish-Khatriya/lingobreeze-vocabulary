@@ -2,6 +2,14 @@
 
 A Flutter-based vocabulary learning feature that allows users to save words they want to learn later. Words are fetched from a Node.js API and stored in Firebase Firestore.
 
+### Demo Video
+
+https://drive.google.com/file/d/1Yh-IKWi5LtsepeXPNB37MjV82sbC6Y8x/view?usp=sharing
+
+### APK Download
+
+https://drive.google.com/file/d/1oDDpJhmIAhi64CyqKDD7bzjT46JrxHKS/view?usp=sharing
+
 ## Features
 
 * View saved vocabulary words
@@ -83,7 +91,3 @@ Backend Structure Guidance: 20%
 Architecture & Business Logic: Manual
 
 Final Integration & Testing: Manual
-
-## Demo
-
-Demo Video: [Add Link Here]
