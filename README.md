@@ -74,13 +74,17 @@ node server.js
 
 ## Estimated AI Contribution
 
-UI Design: 30%
+## Estimated AI Contribution
 
-Debugging Support: 25%
+UI Design Suggestions: 30%
 
-Backend Guidance: 20%
+Debugging & Error Resolution: 25%
 
-Architecture & Integration: Manual
+Backend Structure Guidance: 20%
+
+Architecture & Business Logic: Manual
+
+Final Integration & Testing: Manual
 
 ## Demo
 
